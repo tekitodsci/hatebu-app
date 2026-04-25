@@ -381,7 +381,12 @@ HTML_PAGE = """<!DOCTYPE html>
   </div>
 
   <div class="footer">
-    データソース: <a href="https://b.hatena.ne.jp" target="_blank">はてなブックマーク</a> RSS
+    データソース: <a href="https://b.hatena.ne.jp" target="_blank">はてなブックマーク</a> RSS<br><br>
+    <strong>このアプリについて</strong><br>
+    はてなブックマークの「新着エントリー」から記事を取得し、ブックマーク数順に表示しています。<br>
+    新着エントリーは、人気エントリー（ホットエントリー）に載る<em>前</em>の段階で、<br>
+    ブックマークがつき始めた記事です。つまり「まだバズっていないが、<br>
+    話題化の兆候がある記事」を早期に検出できます。
   </div>
 </div>
 
